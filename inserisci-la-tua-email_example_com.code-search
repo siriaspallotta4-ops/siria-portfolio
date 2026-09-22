@@ -5,5 +5,5 @@
 
 C:\Users\hyrie\Documents\GitHub\siria-portfolio\index.html:
   105        <div class="contact-actions">
-  106:         <a class="button button-light" href="mailto:siriaspallotta4@gmail.com">Scrivimi via email</a>
+  106:       <a class="button button-light" href="https://mail.google.com/mail/?view=cm&fs=1&to=siriaspallotta4@gmail.com" target="_blank">Scrivimi via email</a>  
   107          <a class="button button-outline" href="https://www.linkedin.com/in/siria-spallotta-2961ab285/" target="_blank" rel="noopener">LinkedIn ↗</a>
